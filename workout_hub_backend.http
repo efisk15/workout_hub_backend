@@ -1,0 +1,6 @@
+@workout_hub_backend_HostAddress = http://localhost:5147
+
+GET {{workout_hub_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
